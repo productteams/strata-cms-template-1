@@ -59,37 +59,37 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Portfolio 1."
-			description = "Portfolio 1."
+			description = "Portfolio 1 is where we send all the cool stuff into the void and it comes back to us."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "Portfolio 2."
-			description = "Portfolio 2."
+			description = "Portfolio 2 is where we send all the cool stuff into the void and it comes back to us."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
 			title = "Portfolio 3."
-			description = "Portfolio 3."
+			description = "Portfolio 3 is where we send all the cool stuff into the void and it comes back to us."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
 			title = "Portfolio 4."
-			description = "Portfolio 4."
+			description = "Portfolio 4 is where we send all the cool stuff into the void and it comes back to us."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
 			title = "Portfolio 5."
-			description = "Portfolio 5."
+			description = "Portfolio 5 is where we send all the cool stuff into the void and it comes back to us."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Portfolio 6."
-			description = "Portfolio 6."
+			description = "Portfolio 6 is where we send all the cool stuff into the void and it comes back to us."
 
 	[params.recentposts]
 		hide  = false
