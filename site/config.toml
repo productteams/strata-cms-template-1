@@ -37,16 +37,16 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; John Doe",
-			"Design: [HTML5 UP](//html5up.net)",
+			"&copy; Bruno Rocca",
+			"Design: [ProductTeams](//productteams.com)",
 			"Demo Images: [Unsplash](//unsplash.com/)"
 		]
 
 
 	[params.about]
 		hide  = false
-		title = "Ipsum."
-		content = "Accumsan orci ."
+		title = "Product people love"
+		content = "Agile development ."
 
 
 	[params.portfolio]
