@@ -26,7 +26,7 @@ paginate = 10
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Bruno**, product manager,maker,<br>scrum-master to [productTeams](//productteams.com)."<br>
+		bio = "**I'm Bruno**, product manager,maker,<br>scrum-master to [productTeams](//productteams.com)."
 		# The icons will be shown if you enter your username
 		twitter = "productteams"
 		github = "productteams"
@@ -70,25 +70,25 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "ARCHcabins"
+			title = "ARCHcabins."
 			description = "Designing and Building Easy to Assemble/Disassemble Beautiful Living Structures.  go to https://archcabin.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Cristal Coatings"
+			title = "Cristal Coatings."
 			description = "Exterior Architectural Coatings that Beautify and Protect Wood and the Environment. go to https://cristal.io"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "1 of 23"
+			title = "1 of 23."
 			description = "Empowering a Community of International Makers of Unique One-of-a-Kind Products. go to https://1of23.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "TEAMpools.org"
+			title = "TEAMpools."
 			description = "Designing and Building ChatBots to Help Parents and Kids in Amateur Teams get to practice. go to https://teampools.org"
 
 	[params.recentposts]
