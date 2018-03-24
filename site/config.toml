@@ -90,49 +90,7 @@ paginate = 10
 			thumb = "thumbs/06.jpg"
 			title = "TEAMpools."
 			description = "Designing and Building ChatBots to Help Parents and Kids in Amateur Teams get to practice. go to https://teampools.org"
-
-	[params.portfolio]
-		hide  = false
-		title = "Past Work"
-
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
-		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "ProductTEAMS."
-			description = "Helping Product Owners Initiate/Plan/Execute/Monitor/Launch with On-demand Expert Skills.   go to https://productteams.com"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "HelpmeWELL."
-			description = "Helping Patients get Better Care /Enabling their PGHD (patient generated health data) to get to their Doctors/Family in Time. go to https://helpmewell.com"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "ARCHcabins."
-			description = "Designing and Building Easy to Assemble/Disassemble Beautiful Living Structures.  go to https://archcabin.com"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Cristal Coatings."
-			description = "Exterior Architectural Coatings that Beautify and Protect Wood and the Environment. go to https://cristal.io"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "1 of 23."
-			description = "Empowering a Community of International Makers of Unique One-of-a-Kind Products. go to https://1of23.com"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "TEAMpools."
-			description = "Designing and Building ChatBots to Help Parents and Kids in Amateur Teams get to practice. go to https://teampools.org"
-
+			
 
 	[params.recentposts]
 		hide  = false
