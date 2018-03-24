@@ -58,38 +58,38 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Portfolio 1."
-			description = "Portfolio 1 is where we send all the cool stuff into the void and it comes back to us."
+			title = "ProductTEAMS."
+			description = "Helping Product Owners Initiate/Plan/Execute/Monitor/Launch with On-demand Expert Skills.   go to https://productteams.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Portfolio 2."
-			description = "Portfolio 2 is where we send all the cool stuff into the void and it comes back to us."
+			title = "HelpmeWELL."
+			description = "Helping Patients get Better Care /Enabling their PGHD (patient generated health data) to get to their Doctors/Family in Time. go to https://helpmewell.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Portfolio 3."
-			description = "Portfolio 3 is where we send all the cool stuff into the void and it comes back to us."
+			title = "ARCHcabins"
+			description = "Designing and Building Easy to Assemble/Disassemble Beautiful Living Structures.  go to https://archcabin.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
-			title = "Portfolio 4."
-			description = "Portfolio 4 is where we send all the cool stuff into the void and it comes back to us."
+			title = "Cristal Coatings"
+			description = "Exterior Architectural Coatings that Beautify and Protect Wood and the Environment. go to https://cristal.io"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
-			title = "Portfolio 5."
-			description = "Portfolio 5 is where we send all the cool stuff into the void and it comes back to us."
+			title = "1 of 23"
+			description = "Empowering a Community of International Makers of Unique One-of-a-Kind Products. go to https://1of23.com"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
-			title = "Portfolio 6."
-			description = "Portfolio 6 is where we send all the cool stuff into the void and it comes back to us."
+			title = "TEAMpools.org"
+			description = "Designing and Building ChatBots to Help Parents and Kids in Amateur Teams get to practice. go to https://teampools.org"
 
 	[params.recentposts]
 		hide  = false
